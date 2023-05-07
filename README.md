@@ -1,5 +1,5 @@
 # Airbnb-User-Analysis
-The analysis for the below kaggle competition.
+The analysis is for the below kaggle competition.
 https://www.kaggle.com/competitions/airbnb-recruiting-new-user-bookings/overview
 
 
